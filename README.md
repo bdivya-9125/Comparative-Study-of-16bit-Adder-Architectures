@@ -2,6 +2,9 @@
 Comparative Study of 16-bit Ripple Carry Adder and Weinberger Adder Architectures in Digital Circuit Design 
 
 https://drive.google.com/file/d/1EBO96JjRyy02wX6FjRVfSitM62dEj8g0/view?usp=sharing
+
+---
+
 # 📘 Comparative Study of 16-bit Ripple Carry Adder and Weinberger Adder Architectures
 
 This repository contains the **design, simulation, and comparative analysis** of 16-bit Ripple Carry Adder (RCA) and 16-bit Weinberger Adder using **Cadence Virtuoso** with **GPDK 180 nm CMOS technology**.  
@@ -72,8 +75,6 @@ Both adders were modeled, simulated, and verified using Cadence tools.
 - Weinberger Adder delivers **10–20× lower delay**  
 - RCA is area-efficient but slower  
 - Weinberger is ideal for **high-speed, low-latency VLSI applications**  
-
----
 
 ---
 
