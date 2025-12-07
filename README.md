@@ -101,9 +101,9 @@ Therefore, **Weinberger Adder** is superior for modern high-speed digital system
 
 ## 👩‍💻 Contributors
 
+- **Bojja Divya**
 - **Srinithi R.M**  
-- **Bhavatarini M** 
-- **Bojja Divya**  
+- **Bhavatarini M**   
 - **Geetha Sri P**  
 (*SENSE, VIT Chennai*)
 
